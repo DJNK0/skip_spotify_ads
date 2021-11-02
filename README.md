@@ -7,4 +7,6 @@ Next you should change te paths in the code to point to your own paths.
 
 # Todo
 Make a script to automatically set up the program.
+
+
 Make the position to click dynamic to monitor resolution.
