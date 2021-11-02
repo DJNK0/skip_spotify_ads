@@ -1,2 +1,2 @@
-"F:\Conda\envs\skipads\python.exe" "F:\Conda\envs\skipads\src\main.py"
+"path_to_python_interpreter" "path_to_main.py"
 pause
