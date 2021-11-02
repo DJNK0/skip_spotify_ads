@@ -26,7 +26,7 @@ while True:
                 if songplaying[key] == "ad": #Restart spotify and click button to unpause if ad is playing
                     os.system("TASKKILL /F /IM Spotify.exe")
                     time.sleep(1)
-                    os.startfile('C:\\Users\\david\\AppData\\Local\\Microsoft\\WindowsApps\\Spotify.exe')
+                    os.startfile('path_to_spotify_executable')
                     time.sleep(2)
                     click(1274, 1345)
     time.sleep(2)
