@@ -1,13 +1,10 @@
 # skip_spotify_ads
 Skips spotify ads automatically by restarting the programg if an ad is playing.
 
-# Installations
+# Installation
 You will need the spotipy library and pywin32. 
-
-Next you should change te paths in the code to point to your own paths.
-
-# Todo
-Make a script to automatically set up the program.
-
-
-Make the position to click dynamic to monitor resolution.
+Make sure that the script is in the same file as your python interpreter.
+Run the setup, it will explain what you need to do.
+Now if you want to use it you can use spotify.bat to run both spotify and the script.
+You can make a shortcut to the file spotify.bat and add it to your start menu so you can easily
+start spotify and still have no ads.
