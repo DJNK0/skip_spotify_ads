@@ -1,6 +1,6 @@
 __author__ = "David Kampmeier"
 __license__ = "MIT"
-__version__ = "1.0"
+__version__ = "1.0.1"
 
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
